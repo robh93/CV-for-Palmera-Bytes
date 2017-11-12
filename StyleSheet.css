@@ -1,0 +1,156 @@
+.header{
+    display:grid;
+    grid-template-columns: 40% 30% 30%
+}
+
+.img-circle {
+    border-radius: 50%;
+    border-color: rgb(58, 58, 112)
+}
+.nameobjective{
+    margin-left: 70px;
+    margin-top: 60px;
+    margin-bottom: 30px;
+
+}
+.profilepicture{
+    margin-left: 70px;
+    margin-top: 70px;
+
+}
+.contactinfo{
+   text-align: right;
+   margin-top: 100px;
+margin-bottom: 10px;
+
+}
+.body{
+    display:grid;
+    grid-template-columns: 50% 50%
+}
+.firstcolumn{
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.secondcolumn{
+    margin-left: 70px;
+    margin-top: 5px;
+    margin-bottom: 30px;
+}
+.chart{
+    display:grid;
+    grid-template-columns: 25% 75%;
+    text-align: right;
+}
+
+
+.bar1{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner1{
+    background-color:rgb(221, 19, 19);
+    width:95%;
+    height:100%     
+}
+.bar2{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner2{
+    background-color:rgb(221, 19, 19);
+    width:80%;
+    height:100%     
+}
+.bar3{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner3{
+    background-color:rgb(221, 19, 19);
+    width:70%;
+    height:100%     
+
+}
+.bar4{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner4{
+    background-color:rgb(221, 19, 19);
+    width:88%;
+    height:100%     
+}
+.bar5{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner5{
+    background-color:rgb(221, 19, 19);
+    width:100%;
+    height:100%     
+}
+.bar6{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner6{
+    background-color:rgb(221, 19, 19);
+    width:80%;
+    height:100%     
+}
+.bar7{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner7{
+    background-color:rgb(221, 19, 19);
+    width:95%;
+    height:100%     
+}
+.bar8{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner8{
+    background-color:rgb(221, 19, 19);
+    width:65%;
+    height:100%     
+}
+.bar9{
+    background-color:lightgray;
+    width:60%;
+    height:20px;
+    margin-bottom:40px; 
+}
+
+.bar-inner9{
+    background-color:rgb(221, 19, 19);
+    width:70%;
+    height:100%     
+}
